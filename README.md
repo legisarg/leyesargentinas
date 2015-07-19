@@ -2,9 +2,9 @@ Repositorio legisarg
 
 Repositorio de leyes argentinas abierto.
 
-Fuente: www.inojus.gob.ar
+Fuente: www.inofleg.gob.ar
 Licencia: Libre distribución.
 
 Se comparte en HTML y MOBI.
 
-Se transforma con CALIBRE.
+Se convierte con CALIBRE.
