@@ -9,4 +9,4 @@ Se comparte en HTML y MOBI.
 
 Se convierte con CALIBRE.
 
-Más información en el Wiki,
+Más información en el Wiki.
